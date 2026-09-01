@@ -6,20 +6,17 @@
 
 ## Hi there 👋
 
-<p align="center">
-  <a href="https://ramachandra11dev.github.io/Ramachandra11dev/spinning_globe.html">
-    <img src="https://img.shields.io/badge/🌍_Interactive_Globe-Click_to_Explore-0a1628?style=for-the-badge&labelColor=0d9488&color=0a1628" alt="Interactive Globe" />
-  </a>
-</p>
+<!--
+**Ramachandra11dev/Ramachandra11dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="center">
-  <em>🌍 <a href="https://ramachandra11dev.github.io/Ramachandra11dev/spinning_globe.html">Click here to view the Interactive Spinning Globe →</a></em>
-</p>
+Here are some ideas to get you started:
 
----
-
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm currently learning new technologies
-- 👯 I'm looking to collaborate on open source
-- 💬 Ask me about anything
-- 📫 How to reach me: ramachandra11vit@gmail.com
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
